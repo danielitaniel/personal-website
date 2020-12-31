@@ -1,7 +1,7 @@
 import React from "react";
 import "../App.css";
 import "./HomeSection.css";
-import "../Home.css";
+import "./Home.css";
 import fun_image from "../images/fun_image.png";
 
 function HomeSection() {

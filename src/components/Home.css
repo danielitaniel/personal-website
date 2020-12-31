@@ -32,7 +32,7 @@
 }
 
 .background {
-  background-image: url(./images/blue-background.jpeg);
+  background-image: url(../images/blue-background.jpeg);
   display: flex;
   flex-direction: column;
   justify-content: center;
