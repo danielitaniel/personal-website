@@ -3,10 +3,31 @@
   border: 3px solid green;
 } */
 
-.centered {
+.centered_cursive {
   /* height: 50vh; */
   display: flex;
   justify-content: center;
   align-items: center;
-  font-family: w3-cursive;
+  font-family: cursive;
+  color: antiquewhite;
+}
+
+.centered_cambria {
+  /* height: 50vh; */
+  display: flex;
+  justify-content: center;
+  color: antiquewhite;
+  align-items: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.background {
+  background-image: url(./images/blue-background.jpeg);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+  height: 100vh;
+  width: 100%;
 }
