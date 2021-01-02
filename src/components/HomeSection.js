@@ -42,8 +42,7 @@ function HomeSection() {
         algorithms. I also truly enjoy not only making inferences from data, but
         also deducing information by creating models for decision making,
         statistical inference, or prediction. In my free time I enjoy playing
-        League of Legends, playing basketball, going on runs, and talking to my
-        mom!
+        League of Legends, board games, basketball, and going on runs.
       </p>
     </div>
   );
