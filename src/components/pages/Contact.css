@@ -1,0 +1,60 @@
+.center {
+  display: flex;
+  justify-content: center;
+  color: black;
+  align-items: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-weight: bold;
+}
+
+.contacts {
+  display: flex;
+  justify-content: left;
+  color: black;
+  align-items: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-weight: normal;
+}
+
+.URL {
+  display: flex;
+  justify-content: left;
+  color: blue;
+  align-items: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  margin-left: 0.5%;
+  margin-right: 5%;
+  font-weight: normal;
+}
+
+.email {
+  display: flex;
+  justify-content: left;
+  color: blue;
+  align-items: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  margin-left: 0.5%;
+  margin-right: 0%;
+  font-weight: normal;
+  text-decoration: underline;
+}
+
+.copy_paste {
+  display: flex;
+  justify-content: left;
+  color: black;
+  align-items: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 30px;
+  margin-left: 1%;
+  margin-right: 5%;
+  font-weight: normal;
+}
