@@ -17,9 +17,13 @@ function Experience() {
       </inline>
       <ul className="list_format">
         <li>
-          SetSail is creating a sales behavior management platform using AI to
-          unlock sales teams’ potential
+          Building an end-to-end testing infrastructure for data science
+          services
         </li>
+        <li>
+          Writing tests for asynchronous code using randomly generated mock data
+        </li>
+        <li>Automating software testing for continuous integration</li>
       </ul>
 
       <inline className="bold">
