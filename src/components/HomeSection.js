@@ -37,7 +37,7 @@ function HomeSection() {
       </p>
       <p className="paragraph_format">
         A little about me! I am currently studying computer science with a minor
-        in data science at the University of California, at Berkeley. I love all
+        in data science at the University of California, Berkeley. I love all
         things related to APIs, data/machine structures, and writing efficient
         algorithms. I also truly enjoy not only making inferences from data, but
         also deducing information by creating models for decision making,
